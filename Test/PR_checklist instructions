@@ -1,0 +1,10 @@
+
+Going forward when submitting a PR request, please perform the following to pull the template in your PR:
+
+1. Click the 'New pull request' button under pull requests on github
+2. On the new page when comparing your new branch to main, add the following string at the end of the url: '?template=pricing_template.md'
+3. Hit enter
+4. Click create pull request
+5. Confirm template is showing in the Write tab - can also view in preview
+6. Add information where the section states "Requestor to complete:"
+7. Click create pull request button
